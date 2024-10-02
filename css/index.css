@@ -6,3 +6,7 @@ body {
    display: grid;
    place-items: center;
 }
+.footer{
+    text-align: center;
+    color: #ffffff;
+}
